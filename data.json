@@ -1,0 +1,1631 @@
+[
+  {
+    "id": "5060",
+    "code": "5060",
+    "slug": "apartamento-com-4-dormitorios-para-venda-em-frederico-westphalen-rs",
+    "title": "Apartamento com 4 Dormitórios — Aparecida",
+    "category": "Apartamento",
+    "purpose": [
+      "Venda"
+    ],
+    "purposeLabel": "Venda",
+    "prices": [
+      {
+        "label": "Venda",
+        "value": "R$ 2.100.000,00",
+        "numericValue": 2100000
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Av. João Muniz Reis, 2642",
+      "complement": "APTO 701",
+      "neighborhood": "Aparecida",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/AV. JOÃO MUNIZ REIS 2642 APARECIDA FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 4,
+      "suites": 4,
+      "bathrooms": 5,
+      "parkingSpaces": 2,
+      "privateArea": 371.26
+    },
+    "amenities": [
+      "Banheira De Hidromassagem",
+      "Lavabo",
+      "Cozinha",
+      "Escritório",
+      "Área De Serviço",
+      "Despensa",
+      "Espaço Gourmet",
+      "Churrasqueira",
+      "Elevador",
+      "Hidrômetro Individual",
+      "Gás Central",
+      "Água Quente",
+      "Mobiliado(A)",
+      "Piscina",
+      "Aquecedor"
+    ],
+    "description": "Apartamento no bairro Aparecida, Frederico Westphalen. Conta com 4 dormitórios, 4 suítes, 5 banheiros, 2 vagas de garagem, 371.26 m². Diferenciais: Banheira De Hidromassagem, Lavabo, Cozinha, Escritório, Área De Serviço, Despensa, Espaço Gourmet, Churrasqueira.",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/5043/21187c6e5bbb9786b69215f34a031f66_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/21187c6e5bbb9786b69215f34a031f66_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/732043b6b227db61d6b3c3559f542b34_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/dbe75c610333fb814c7d2e954c8af503_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/0d8894bf9f903785babf8fbda0929fb6_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/60b38182e1d168755e32a5e6c909f1ac_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/a879f99a227290e7ae135e85c190169b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/e2728e60f2d8412d8f709d4de27166bf_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/fe67203d92f04ed0cd063c10758edb2b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/add311f5391c20a599dcf9abd7212f61_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/7e00620189c053322fe08851e3e463a5_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/090d0143ae47b562ec068577aa74d006_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/55d765906f3bda0370216016f4eadfee_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/3cd815a37eb4e978e30927b101dae51a_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/caf694b375fa66f61ed709a0cfeeb0d2_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/682a83d1f55b566a8b791b650ed0af95_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/476e788dc7f28f98e9394060e3d07879_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/ea6c6193c67ff6c300f223191012acfd_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/6466a39554d067ac713924e9111efa23_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/9350752b94af49a3f4941f1a4a7ea309_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/5eea5db3b4aded03a8c2cae1817819c7_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/eb4caada9fcba818cc97b8dea5e0247f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/5fad718c7489ba237ec686f29be990dc_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/9ae0fe1a553b9a533d8dcbec17e8972a_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/09e89b3dcca4d2b50ff093d15c5ba829_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/ecf009c073f536c79e5f50db1c8bb9f9_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/0ce8f23d0787e9ab29065357370a89f7_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/200669b05a76a8a4c46a95127f9d9a92_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/8f9d0afcde2b97e6401b004a99059741_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/d29884ce5d8ea6ef677625b03385ab9c_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/384140a483a49b0f5eca71d85b959be7_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/210fd51691191bfe79e16e0af8879013_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/9a9bbfef2df0ebc9f1da1c94b7a3460a_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/2b45a43951b0635f5f52f1f0b968a35c_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/872cbbd7f6d357672e09126efe6278b4_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/e5b54145a3178865985a470920df661f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/957cb8af565211c6bcf6e264102bdc67_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/26a69469e07363b0dd2ce67233e7637b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/f6d2476d581215e883f418adde74223e_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/9387beda86e9950a9965eb39a7fc3d76_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/80f0c289550518dc4e1235f05a917806_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5043/33f5cbf756f5a85da3d3057e3a240057_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": true
+  },
+  {
+    "id": "4930",
+    "code": "4930",
+    "slug": "apartamento-com-3-dormitorios-para-venda-em-frederico-westphalen-rs",
+    "title": "Apartamento com 3 Dormitórios — Centro",
+    "category": "Apartamento",
+    "purpose": [
+      "Venda"
+    ],
+    "purposeLabel": "Venda",
+    "prices": [
+      {
+        "label": "Venda",
+        "value": "R$ 1.800.000,00",
+        "numericValue": 1800000
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Rua Do Comercio, 355",
+      "complement": "APTO 202",
+      "neighborhood": "Centro",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/RUA DO COMERCIO 355 CENTRO FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 3,
+      "suites": 2,
+      "bathrooms": 3,
+      "parkingSpaces": 2,
+      "privateArea": 265
+    },
+    "amenities": [
+      "Sacada",
+      "Cozinha",
+      "Área De Serviço",
+      "Salão De Festas",
+      "Churrasqueira",
+      "Gás Central",
+      "Semimobiliado"
+    ],
+    "description": "Apartamento no bairro Centro, Frederico Westphalen. Conta com 3 dormitórios, 2 suítes, 3 banheiros, 2 vagas de garagem, 265 m². Diferenciais: Sacada, Cozinha, Área De Serviço, Salão De Festas, Churrasqueira, Gás Central, Semimobiliado.",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/4912/1a195724e0813db788797a5ac7ce3522_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/1a195724e0813db788797a5ac7ce3522_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/df26867632b0e959a59d2685f2fab652_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/434df42576e06abef0b2ec76234114c8_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/a35c47f1374d6db198771a7e950de7e4_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/bac0ec6302668967829322be16a7dfb4_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/7e6f954fec4138520ffe08525c73ff8f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/7c73fd1f9e369ec130b4a9ddba9a9d4b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/10d9729ba2c6e676be4b4533407fc967_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/1925ecb191ce72b4332c56ac929370da_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/8bd6bff0095b3e8f0091f262e3b7fb59_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/2c303808aa7ddac31a8a778390c40052_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/f855c497d948ce454727e8e5e39e5fcb_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/be10e3f059d1ae5a30ac993134912996_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/fdd9345b635cb6811c5c7fc8ad75dce4_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/f0c5c938e51db0b4c2a1a1fe58eb3c7e_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/6e08e82df3a066edd96ab706b87ea52d_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/c960c928b3971d90ff53eaba71c8a947_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/155a9443a8ef40b952a26223bf1f32b2_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/d706f3fbb9202596a854e36c139169ef_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/0efe5decefdacc85543ca8b152381f1a_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/62e94f8c823573e676976a60db43fa3a_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/0bd38698d118eddf93857fb22f2a788b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/186cbb95ca8f83fae52d30eccf75e831_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/a7e7ca10eeb57580ab6d03e686339ced_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/fa16169b46de19694e37d9abf315a20a_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/3e2a7e8ed70ee4f5559c5a5186e564f1_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/f24c05186eb7d7ed935017f06383a8ce_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/5d3427f39438835e514e6a2cf309838f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/7fff7d06bf36452e2d77922d5e4fd51c_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/b3f16c7d7368bda3d50d7d56e6b6bdd5_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/0640077909c9fe4fd48786fcd154d291_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/6515a1fdf7842a1a5891d82db3ccd788_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/5dabfe0bb3e17b262ba51dca7357b7ca_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/68afc395a08e1e4a61dcd2b1b5f3837d_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/2efe6cc25fa14cc87f18cd69bac0e621_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/03df34ebf1c90bd1b4c8f6d35057144f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/192c4e48087900405507e4d3e3235f3d_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/c791a55256301839887ed376f687db24_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/16521d36219e814e29bbea256127104c_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/d55728223c1738f7275412449e462742_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/3b4275022ca656778aa98d877eba164f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/87eb0c6be45d7d2b0e619567d41da045_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/65c5de77d7da39d6e36af601b0ebad8d_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/87ef497079cfcc934d52225b0615c4d8_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/9fe40680e83a0cef71dcded923f7626b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/8b8d7d974e5776d58a44b2fc37e03dad_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/608a0f74c4f56ce1f016a801b73e513c_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/942d8a1a48b0df74fb0e35229fa77dd3_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/724f3304cb82f490cdd3e8f48aa50edf_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/9da1f23c72a17e537f719fb7a0fd68cc_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/12495fe8139bc7faeea6dccf18c49127_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/f6f4b576539786e04df9bf439fab3f21_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4912/109534396e8851ba5d4a1ef8e7a8a55c_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": true
+  },
+  {
+    "id": "4908",
+    "code": "4908",
+    "slug": "apartamento-com-3-dormitorios-para-locacao-venda-em-frederico-westphalen-rs",
+    "title": "Apartamento com 3 Dormitórios — Centro",
+    "category": "Apartamento",
+    "purpose": [
+      "Locação",
+      "Venda"
+    ],
+    "purposeLabel": "Venda e Locação",
+    "prices": [
+      {
+        "label": "Venda",
+        "value": "R$ 1.750.000,00",
+        "numericValue": 1750000
+      },
+      {
+        "label": "Locação",
+        "value": "Sob consulta",
+        "numericValue": null
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Rua Do Comercio, 117",
+      "complement": "APTO 301",
+      "neighborhood": "Centro",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/RUA DO COMERCIO 117 CENTRO FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 3,
+      "suites": 3,
+      "parkingSpaces": 2,
+      "privateArea": 221.7
+    },
+    "amenities": [
+      "Lavabo",
+      "Sacada",
+      "Cozinha Mobiliada",
+      "Área De Serviço",
+      "Espaço Gourmet",
+      "Salão De Festas",
+      "Churrasqueira",
+      "Elevador",
+      "Hidrômetro Individual",
+      "Gás Central",
+      "Mobiliado(A)",
+      "Câmeras De Segurança",
+      "Condomínio: +/- R$ 900,00 + CONSUMOS DE ÁGUA E GÁS",
+      "Brinquedoteca",
+      "Piso Aquecido",
+      "Iptu: +/- R$ 1.700,OO",
+      "Persianas Elétricras",
+      "Elevador Privativo",
+      "Acessibilidade"
+    ],
+    "description": "Apartamento no bairro Centro, Frederico Westphalen. Conta com 3 dormitórios, 3 suítes, 2 vagas de garagem, 221.7 m². Diferenciais: Lavabo, Sacada, Cozinha Mobiliada, Área De Serviço, Espaço Gourmet, Salão De Festas, Churrasqueira, Elevador.",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/4890/bcf748f4cd23f8befeb56bcd6ccc74e4_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/bcf748f4cd23f8befeb56bcd6ccc74e4_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/ff2405eae81c936af5138394b53e052a_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/1e65cf21d84bd81ca4bd9217b64709e9_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/902d04a9d6f6e42367d60e8c22151138_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/2402512a4e40142e42f9f9d6401ec531_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/994f3fd461aa0c0317e22943934c5d39_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/20b3bc7ea73e0b13589208e8c975650d_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/be1461d24b3946e5d7e2c1bb1194a25a_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/a1f32ff06e94f93cb41f9949c7e45120_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/b8ef224a16cb0cb544e03da9e5ceeb0c_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/9e9722796f00b1e140d5767a0cc94619_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/672cb1a50469f1a3ecfa677de811f164_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/53ae44d09742c87f5ca94064009674a9_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/8fb6bb2a236a75232d8d3c9d8067630d_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/ed8d1b8e53796e3e191c3c1b5fa9eb3f_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/eb2a48138f2116b2e1447fefa314c93a_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/20a4314f341618835cba15f4d8f81b06_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/ce6cd440cfb1a1fe85046e18c08479a7_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/a1aa4d2df21beb06d3c1dd258422a517_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/a39147deb1e946574c9acf518417d609_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/092fe96d6be6b8819e4affeb57672268_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/7a466c7729639ab94d008d3ba090b130_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/2e4b18d401c82a55c51b63a9e8af450e_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/6cb491a2178f53db62de7d2cd7fa8175_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/9cc70e5a921977d2c3be69fa493c94b2_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/e905d63702f0aa44ddbf6fb29cad50aa_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/40986d2877b0239c17bba24211b0cfc8_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/bd5696603b8ae8155af532f3bf187eb7_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/750e2d8a20cd2fe661005bd9b30415dc_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/ac36b504a3c6282fd7b5e756d85e7008_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/4c356fcb4b605067d3447d2b9b4adbd8_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/392cafc3242d99d24e1b4a330dff5671_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/c17d46a2cee91adff35d750522710bc9_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/a339c60b5dc7a403458267db76ddd8f7_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/8e385100c045e63609b14de5a58c0a1f_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/cfac7abb952d2861acc477c917f3c0ec_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/6745ca823c544055ce66d022daf3210a_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/b9bd928961622735ed2fa91fc44e157c_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/4562ccd4f80511d6ed45963b0fdb12d4_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/3090a8b94cdf220cb5ff27615150a9ca_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/96ed756b2d2bcc582236616064296779_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/5d4f36090fe1605632764ed564de8ec5_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/378cae956a8bb2ca0c419505962aecdc_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/22265d85f59c521dbdc72cedc320e4ad_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4890/aafd737bb7ec3d55283e21814687dd4e_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": true
+  },
+  {
+    "id": "5108",
+    "code": "5108",
+    "slug": "apartamento-com-3-dormitorios-para-venda-em-frederico-westphalen-rs",
+    "title": "Apartamento com 3 Dormitórios — Centro",
+    "category": "Apartamento",
+    "purpose": [
+      "Venda"
+    ],
+    "purposeLabel": "Venda",
+    "prices": [
+      {
+        "label": "Venda",
+        "value": "R$ 1.590.000,00",
+        "numericValue": 1590000
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Rua Nolci Antonio Sebben, 95",
+      "complement": "APTO 402",
+      "neighborhood": "Centro",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/RUA NOLCI ANTONIO SEBBEN 95 CENTRO FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 3,
+      "suites": 3,
+      "bathrooms": 4,
+      "parkingSpaces": 5,
+      "privateArea": 289.44
+    },
+    "amenities": [
+      "Banheira De Hidromassagem",
+      "Sacada",
+      "Cozinha",
+      "Área De Serviço",
+      "Despensa",
+      "Espaço Gourmet",
+      "Churrasqueira",
+      "Elevador",
+      "Hidrômetro Individual",
+      "Gás Central",
+      "Água Quente",
+      "Terraço"
+    ],
+    "description": "Apartamento no bairro Centro, Frederico Westphalen. Conta com 3 dormitórios, 3 suítes, 4 banheiros, 5 vagas de garagem, 289.44 m². Diferenciais: Banheira De Hidromassagem, Sacada, Cozinha, Área De Serviço, Despensa, Espaço Gourmet, Churrasqueira, Elevador.",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/5091/20bcfa177b515e1457d0b82d62a5a18f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/20bcfa177b515e1457d0b82d62a5a18f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/a0db0ddb11acd3502530dd6671b3fc98_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/71e035afd0f35e79fea235e9d44dd097_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/affbca31449de2ecf287831d6f65d969_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/085091d55562ba382d9f7546fb40beb6_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/053a0825b37b31e0ac9418f5c46b1f0d_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/0b56fef5536d1832ebf6e03637cd223d_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/a6dad03f07a87db85e7d6c38da374431_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/599d776bd82049bc8759d732229e8e50_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/e168a330b6934cd70c94b8de6a1bbe2e_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/58e309bbfa97be2dda4c2a53ef2cca62_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/b2c6368cec63623ff29c7501d3777876_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/1c9a92492ffaab72ff21c6790caec6a8_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/5b0530b21c5b11a92c1126d026d8d3f5_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/93da39fa0235984a9cd0d2afec420fb4_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/96afd23e00de5bf6dec44a7645e79c12_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/c2b7be56a3b643c171e1c7cdb959408d_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/92ed9786f731b31f187d974c7bf3e778_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/637a57137b18ff4bd4d9b6f79a24621e_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/2e56258d95a702b2564e8789552064b6_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/a44ac71a99c53d6a859a44bd72034862_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/23740d9e84a308e0e887de41f41de09d_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/c7f25167132e61a2457e316bf7ec03c2_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/5e6ec475a6e9f50be0e532c50fea0f6a_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/33497c5ae242cf766ec9dc62c054f714_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/8c0356a56161810c6899d0d708c9382d_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/35abda932d04015bd4692fc280299219_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/a41db10651e7aeb2c9e4a5feb65142b3_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/3a6162ccabf521246341a45c69e1542b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/abb7c053adbf11a7583f3e0789221c9c_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5091/e96c51e3ce692fd647cf251f3afee81a_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": true
+  },
+  {
+    "id": "4735",
+    "code": "4735",
+    "slug": "apartamento-com-3-dormitorios-para-venda-em-frederico-westphalen-rs",
+    "title": "Apartamento com 3 Dormitórios — Centro",
+    "category": "Apartamento",
+    "purpose": [
+      "Venda"
+    ],
+    "purposeLabel": "Venda",
+    "prices": [
+      {
+        "label": "Venda",
+        "value": "R$ 1.500.000,00",
+        "numericValue": 1500000
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Rua Do Comercio, 117",
+      "complement": "APTO. 201",
+      "neighborhood": "Centro",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/RUA DO COMERCIO 117 CENTRO FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 3,
+      "suites": 3,
+      "parkingSpaces": 2,
+      "privateArea": 221.7
+    },
+    "amenities": [
+      "Lavabo",
+      "Sacada",
+      "Cozinha",
+      "Área De Serviço",
+      "Espaço Gourmet",
+      "Salão De Festas",
+      "Churrasqueira",
+      "Elevador",
+      "Hidrômetro Individual",
+      "Gás Central",
+      "Câmeras De Segurança",
+      "Condomínio: +/- R$ 400,00 + consumo de água e gás.",
+      "Iptu: +/- R$ 1.700,OO",
+      "Persianas Elétricras",
+      "Elevador Privativo"
+    ],
+    "description": "Apartamento de Luxo à Venda no Centro de Frederico Westphalen\n\nDescubra o seu novo lar neste incrível apartamento de 221,70 m², localizado na Rua do Comércio 117.Com 3 suítes, 2 vagas de garagem e uma ampla sala, este imóvel oferece conforto e sofisticação. Desfrute de momentos especiais na churrasqueira e no salão de festas, além de um espaço gourmet perfeito para receber amigos e familiares.\n\nO apartamento esta semi-mobiliado e também conta com elevador privativo, persianas elétricas, câmeras de segurança e gás central, garantindo praticidade e segurança no seu dia a dia. \n\nNão perca a oportunidade de viver em um espaço que une elegância e funcionalidade. Agende sua visita e venha conhecer este imóvel dos sonhos!",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/4713/222475b5b09d70615ba9b8c655a7c8f1_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/222475b5b09d70615ba9b8c655a7c8f1_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/15a34b0f7b54039a94785715e5bea332_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/a39b24d82f82a76b2bf88d4fd674a3de_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/2ed82831adc131ad0603bcb3359b86bc_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/908be814093e7ddc9ca0faa2b0b2b1ab_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/24b042de3b176c1192f064c3e3e8959f_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/b47ef20222edd8791a4143fe637399cd_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/00efcdc6b67ad6cbf3c6eb096c6057b4_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/052b4ab2308199391ad2a4c6a1389f6f_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/f36d363e6b199bd4fe276ea5573fb421_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/5eb4041b250198596245c475507be01b_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/236c4542c4c13361c8c53e22e6fd7528_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/186f73d67498aa191e3de3fdf46c9d4d_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/298d2dc5325d9200945b4821c3e1912e_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/90646f916b248d35dcedbfa67733312a_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/e1f120dea8d799109b73cd38ed09353f_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/eecce1551fe78a8aa066a864b3a6e85a_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/dafb843ebb428ee320598125bf32fe18_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/4888c6eb95563f206470e7ed99b50b18_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/db22d22c26c42a619b72e87cf2275d06_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/5136931d736a47164bebf848f0fefe3b_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/763667a262d6c597cea5bf1935fc3f3c_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/ebb4211697637c1e6ab2af6afc1f3f96_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/2adba2d39b1c0ff71dd27b296b8af5c3_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/460a4d26729811552cc53816da06a9e2_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/99709a5586ceaf7c9b98d8b189bac74f_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/fe58292bace4a0b83419e4040fadc458_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/6bfda779a94646166ef8fe3b2a1afcb7_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/882404d10b5e05a984e28b1f5a235595_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/e11d118fbb7cd82b03a2474be7e5de65_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/c74f0cd59291b4fc7046c59b55de5f0f_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/b60d2cbf760a0821f8a16b2c39f3489d_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/3c742b47b2f5b6f63a8b6c8485f66dbb_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/80434df480e6a96e0c4c92384b2a033e_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4713/696e3f133012c2e3b4ba8b3a88a5ea8c_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": true
+  },
+  {
+    "id": "4619",
+    "code": "4619",
+    "slug": "casa-com-4-dormitorios-para-venda-em-frederico-westphalen-rs",
+    "title": "Casa com 4 Dormitórios — Centro",
+    "category": "Casa",
+    "purpose": [
+      "Venda"
+    ],
+    "purposeLabel": "Venda",
+    "prices": [
+      {
+        "label": "Venda",
+        "value": "R$ 3.250.000,00",
+        "numericValue": 3250000
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Av. Luiz Milani, 466",
+      "complement": "",
+      "neighborhood": "Centro",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/AV. LUIZ MILANI 466 CENTRO FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 4,
+      "suites": 1,
+      "bathrooms": 5,
+      "parkingSpaces": 4
+    },
+    "amenities": [
+      "Banheira De Hidromassagem",
+      "Lavabo",
+      "Cozinha",
+      "Escritório",
+      "Área De Serviço",
+      "Despensa",
+      "Espaço Gourmet",
+      "Quiosque",
+      "Churrasqueira",
+      "Mobiliado(A)",
+      "Varanda",
+      "Piscina",
+      "Aquecimento Solar"
+    ],
+    "description": "Casa à Venda no Centro de Frederico Westphalen - Oportunidade Imperdível!\n\nDescubra esta incrível casa à venda, localizada na Av. Luiz Milani, que combina conforto e elegância em um só lugar. Com 564,26 m² de área construída em um terreno de 879,80 m², este imóvel oferece amplos espaços, ideal para quem busca qualidade de vida e praticidade.\n\nCom 4 dormitórios, sendo 1 suíte master com closet e banheira de hidromassagem e 1 suíte com sacada, a casa conta ainda com 5 banheiros, 2 salas de estar, 2 cozinhas, lavanderia, amplo escritório, despensa e lavabo, além disso conta com 2 salas comerciais térreas independentes de frente para a Avenida. Desfrute de momentos de lazer com a piscina aquecida, churrasqueira, espaço gourmet e quiosque. Além disso, a propriedade é totalmente mobiliada e possui 4 vagas de garagem.\n\nNão perca a chance de conhecer este imóvel incrível! Agende sua visita e venha se surpreender!\n\n#CasaÀVenda #FredericoWestphalen #ImóvelResidencial #Mobiliado #Piscina #EspaçoGourmet #Oportunidade #Centro",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/4596/73050fabc05a02cdcc8cc0e2de2cc731_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/73050fabc05a02cdcc8cc0e2de2cc731_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/4720563ba68abbbe13c817f549a45d1d_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/9fc51fddaf974755816781f6f8c294e3_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/18fb943c7149618428ceb424bd0abfd0_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/400851fbfaeb18db20c8cf1e11eb48c2_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/29da61603f8b9ddc9c9bea50c57acdd6_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/e8ac3084e928cc09de71e7fa93eff2e0_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/401b3960c249aea4da87e77fead60d9c_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/6b89a0625c8b9e1e067fe744a0f1ea6c_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/eac1d779d47bab5b3871b85fc4654c59_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/ec4b173185020d0f13131352a5cecbe5_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/a2a9212a9bedc5b8408ba14a51ebe33d_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/4aba373c09b30d6f62f0956837b23d68_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/ee7cfc83c5564270d51bc86057290769_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/461dc178d94d56950e132dbc59eb0c41_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/b46a13b9d861ca09ca7ddd3e59f6b9bd_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/5ea7f098123667f37915117a88f77a49_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/d9423a0d90f5e1ad32199ee182839dee_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/14a6b378a5f5aa4a4baf224345ffa2f8_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/c1fdda96106745c0cc2cfb4ccd8481ae_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/b4990ab868f1fad8f37b5d78a2aa47ed_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/5f60ccc0cff5f13e88ef91ebedc977fc_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/45e2f855dbe25d04ce86edc835092fcb_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/e81a1a4acd707772efcf5a408cc391bd_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/3fd98ecbd58b02fb0eee168b10c7a386_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/5baa38353d152ba969d1b546ee519c1f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/a27ad00865044af788cf5db6b784219d_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/f3653d99c89d0f2204f4b57e6ad903b5_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/aeb557f5227d82ce5ad5715ab0de6823_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/f8d313433527406654505eb8330ab80b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/f679e5268a77100313081d0c444c6350_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/269a69cd121d6de24e7ef780b46dff61_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/2349d277b729ead18e44075f03bd7264_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/555a2927bd09e5c7209ba0a97a350d6f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/a7836f36a869f459dd4ae5629aa577bc_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/3f6eb5319d66cea0d0098f628d697315_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/ab70d1eb81f8cee14332bb7eef53d27f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/adba4d51eb13913633a818607ea5ae0e_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/5d0a51057553a83561dcfb2beca2fdda_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/fa8c6cce87e8f16405ef30015cfa6d92_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/7a15d3815dbef5da0d77539f06a86507_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/d1ae18529cc7ef26f260d7f79a8f7737_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/53139b03100d51a6592553520d8bf961_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/6e6c701adf392ecb1610e285f32275e5_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/e72c8dccb9f2e232617d5dfd7520fb79_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/aab499e125f4872fd7642bdd9af52481_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/ee66133dfb44607d02fed65b04604b4f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/46a6cf2e0795711de92db3d8097f430e_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/616a0d443811eea96625a502d2ac29f6_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/1b3faf8e048881d3c71b80aabb186683_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/95a6c37f83439b3e4784499aa6bfe894_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/dd5514df23c663eb6a2766c7ce823054_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4596/fa30b501cc16660ada2f2a6ae3f6767a_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": true
+  },
+  {
+    "id": "4440",
+    "code": "4440",
+    "slug": "casa-com-4-dormitorios-para-venda-em-frederico-westphalen-rs",
+    "title": "Casa com 4 Dormitórios — Centro",
+    "category": "Casa",
+    "purpose": [
+      "Venda"
+    ],
+    "purposeLabel": "Venda",
+    "prices": [
+      {
+        "label": "Venda",
+        "value": "R$ 2.750.000,00",
+        "numericValue": 2750000
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Rua Tenente Portela, Bairro Centro",
+      "complement": "",
+      "neighborhood": "Centro",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/RUA TENENTE PORTELA CENTRO FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 4,
+      "suites": 2,
+      "bathrooms": 4,
+      "parkingSpaces": 2
+    },
+    "amenities": [
+      "Lareira",
+      "Cozinha",
+      "Escritório",
+      "Área De Serviço",
+      "Espaço Gourmet",
+      "Churrasqueira",
+      "Varanda",
+      "Medidas: 25,00 x 61,00"
+    ],
+    "description": "Casa no bairro Centro, Frederico Westphalen. Conta com 4 dormitórios, 2 suítes, 4 banheiros, 2 vagas de garagem. Diferenciais: Lareira, Cozinha, Escritório, Área De Serviço, Espaço Gourmet, Churrasqueira, Varanda, Medidas: 25,00 x 61,00.",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/4407/c2baf800d574ecc2031358826f5c56da_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4407/c2baf800d574ecc2031358826f5c56da_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4407/a618769a51dc2e225a5b50cf467b52cc_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4407/d5ca232709c1ddea0d82e0d482228f42_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4407/001259c5b8d399288701a3cc05b4caf7_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4407/bbd98dfa4494b9a29a9dd54fb02f3eed_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4407/98fac2199fabb399f3c0a268e8c395ff_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4407/3c3054ad81ec242b673347277e2f77f0_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4407/963e99fd0df63878d212920388260a56_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4407/79e678f29b59ea38e6b91d0bc94da4ae_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4407/0c58130165c3e62fffa9323f844f63ba_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4407/dcb3004e1159c83011ee56807f4e129b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4407/2e84c762e8e7c12afd444a0f04945eee_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": false
+  },
+  {
+    "id": "4691",
+    "code": "4691",
+    "slug": "casa-com-3-dormitorios-para-venda-em-frederico-westphalen-rs",
+    "title": "Casa com 3 Dormitórios — Itapage",
+    "category": "Casa",
+    "purpose": [
+      "Venda"
+    ],
+    "purposeLabel": "Venda",
+    "prices": [
+      {
+        "label": "Venda",
+        "value": "R$ 2.600.000,00",
+        "numericValue": 2600000
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Rua Carlos Manfio, 122",
+      "complement": "",
+      "neighborhood": "Itapage",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/RUA CARLOS MANFIO 122 ITAPAGE FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 3,
+      "suites": 3,
+      "bathrooms": 4,
+      "parkingSpaces": 2
+    },
+    "amenities": [
+      "Lavabo",
+      "Cozinha",
+      "Área De Serviço",
+      "Espaço Gourmet",
+      "Churrasqueira",
+      "Varanda",
+      "Piscina"
+    ],
+    "description": "Casa no bairro Itapage, Frederico Westphalen. Conta com 3 dormitórios, 3 suítes, 4 banheiros, 2 vagas de garagem. Diferenciais: Lavabo, Cozinha, Área De Serviço, Espaço Gourmet, Churrasqueira, Varanda, Piscina.",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/4669/a5db479c93879411084fb42c3ff6b7df_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/a5db479c93879411084fb42c3ff6b7df_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/003302028c099603fefdaa6d5dc56bc7_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/e8990654e6c94158808f4ea251e26b0b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/75e5c06fc96e61cf29ef56263e746f15_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/55fd0ad52c5b565b2b4306661591f805_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/596a9b7c0c1b73b0e76c08a9594e717c_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/22f118199a2b4189d514611c7f02c608_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/318534f435dc243c4a364c8ade22b2e4_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/9b59b012dbb9986aaab2d6684aa2949f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/e49de919e163e1307b5f4571694bdf1a_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/769e9d559e73391080bb690e254adf33_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/8bf9e1fe5802ca00659cc71cf3ae4040_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/f8290fcbf56778a2a94f06fbcf10600c_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/9fba0b6f73f102b5ad69a02819d57855_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/c0a6e4e9b1e6bae158c68ecfb885847f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/84a3e747304da6d5ff00f42d1393c79e_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/0937cef503f2c1b6345da42c70147a10_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/4c810d5ae762cfcc9229ff255866f249_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/ebfb00206100146f51e1fc148ca84896_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/ae17a65c5124509337f207952d7c2f5f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/e0917541a81ddb8d0a288e41d3f2b876_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/574cea3bcf71a6127843503973382edd_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/66183c6228e63c9b0c264040049a5f3a_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/efcd7de37580a8207dd452d69b1b0985_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4669/f3a0db4e81d18fb5454b5e0df846af3a_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": false
+  },
+  {
+    "id": "3130",
+    "code": "3130",
+    "slug": "casa-com-4-dormitorios-para-venda-em-frederico-westphalen-rs",
+    "title": "Casa com 4 Dormitórios — Itapage",
+    "category": "Casa",
+    "purpose": [
+      "Venda"
+    ],
+    "purposeLabel": "Venda",
+    "prices": [
+      {
+        "label": "Venda",
+        "value": "R$ 2.500.000,00",
+        "numericValue": 2500000
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Rua Tuiti, Bairro Itapage",
+      "complement": "",
+      "neighborhood": "Itapage",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/RUA TUITI ITAPAGE FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "parkingSpaces": 4
+    },
+    "amenities": [
+      "Lavabo",
+      "Lareira",
+      "Cozinha",
+      "Cozinha Mobiliada",
+      "Escritório",
+      "Área De Serviço",
+      "Despensa",
+      "Salão De Festas",
+      "Churrasqueira",
+      "Água Quente",
+      "Varanda",
+      "Piscina",
+      "Alarme",
+      "Portão Eletrônico"
+    ],
+    "description": "Casa no bairro Itapage, Frederico Westphalen. Conta com 4 dormitórios, 3 banheiros, 4 vagas de garagem. Diferenciais: Lavabo, Lareira, Cozinha, Cozinha Mobiliada, Escritório, Área De Serviço, Despensa, Salão De Festas.",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/3075/5e15a32d5a65919f803841bf98699b77b028a586_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/5e15a32d5a65919f803841bf98699b77b028a586_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/fcf91894f3daa50823f37a1259100bd7c10086b4_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/903901461ffec6815a0f892a2de71f0ab31c535e_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/c88e7589c40d012c6ec2bc05292e6c3594389912_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/491a6cefb8fd09b4a15a78a02f2145395938f458_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/9c9aebe0eb28a2f76027f1ceb69c23c631194299_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/870c977c17428cc271a35074e78f4e6ba071b747_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/261a1cff6ff7d736c4f5316ffd9150250df3325f_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/cb76e9bc66b65f4809384d486b83c22f27d3cbc2_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/7487f69fdfbdfdc9c976e78bcda87358dd990059_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/ed6bfb90f7e16e93812a46332fcdf7b493824e5c_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/d632180c655246dcfddc9adcc0800b53262dfa17_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/6ad708c7838539ee1f7cedb54a2ea0db2cfdd792_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/24e6f61cb065fdc6252d594e94d41e6488791ddf_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/f5747839eb5fec803ad3c4453c7b6f67a66b4c57_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/d7fd83c07e9edc7e68b77263fc69231dc5cf2549_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/81496432a8c26fad05eadd0a4426ffc34332827a_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/9be2fe2fbbb8472940aa57d0940c4733ebc75abb_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/377b32e3e3d8a449d4fcc181e3d4d042de5a018f_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/a6c11ce167e786373066b59764bcb0af4bbf91fc_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/eb58139110f3d6d591ba6f67effef75a5a8bf588_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/6679180a31a3967cfff2018841a201e3a74d618e_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/b3ce57a2207ca39ab0330f84a9cbd2e9888546dc_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/f9fd84a21a1ecc8428e177ec145d7607e31d2840_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/eef691d4e39d9949ecb06d2f736daa139fbb8003_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/11df8e5deee859d91998fc52917345e261f126b9_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/321aee591b47dd97a2f1239d025aeb28e78d15e8_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/6fe3adac8541e4afd1c17c52f18258236effa3f9_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/d886400257569c8c65785216338c13a0f60fc3f8_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/357221c757832143795055ba1bc296c2df0c8c3a_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/f23981413c69cfe98c830101b71424606955bf40_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/729d7752931edecbeaea79a21b4d54e700191e56_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/9739f523b9bdf815a40276493270a9e1a0ecd856_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/4a2b0229be9b7d9699c02bf7c40c0f6c68160866_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/a8ad56adc99dee2bab7143193e3a71dd1c077317_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/83fa4a8e3d867c87cef34b068e7cd449a072a65a_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/ca2a35a8d604985a8a6df469f852ca046664575d_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/65d082d32d49fa0f014313363f63765dc657ccd6_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/57912da68948bc7727a7ebf4104fc3f87f992796_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/e67da6a888e7b1b0318b1c23268a8ad8b66054d6_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/3075/7f9d4094a386612c2213d96a4fc4b1bb4b4bc322_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": false
+  },
+  {
+    "id": "2757",
+    "code": "2757",
+    "slug": "casa-com-3-dormitorios-para-venda-em-frederico-westphalen-rs",
+    "title": "Casa com 3 Dormitórios — Fatima",
+    "category": "Casa",
+    "purpose": [
+      "Venda"
+    ],
+    "purposeLabel": "Venda",
+    "prices": [
+      {
+        "label": "Venda",
+        "value": "R$ 2.400.000,00",
+        "numericValue": 2400000
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Rua Guararapes, 167",
+      "complement": "",
+      "neighborhood": "Fatima",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/RUA GUARARAPES 167 FATIMA FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 3,
+      "suites": 2,
+      "bathrooms": 4,
+      "parkingSpaces": 4
+    },
+    "amenities": [
+      "Lavabo",
+      "Cozinha",
+      "Área De Serviço",
+      "Quiosque",
+      "Churrasqueira",
+      "Água Quente",
+      "Semimobiliado",
+      "Varanda",
+      "Piscina",
+      "Aquecedor"
+    ],
+    "description": "Casa à venda em Frederico Westphalen\n\n\nEsta incrível casa localizada a menos de 2 quadras do HDP é perfeita para quem busca conforto e espaço. Com uma área construída de 350m² e um terreno de 570m², você terá todo o espaço que precisa para viver momentos inesquecíveis com sua família.\n\n\t🛏️ Dormitórios sendo 3 suítes, 1 com closet e banheira de hidromassagem\n\t🍽️ Cozinha Mobiliada e Sala Ampla\n\t🚗 Quatro Vagas de Garagem\n\t🏊 Piscina\n\t🧺 Área de Serviço\n\t🚽 Dois Lavabo\n\t💧 Água Quente\n\t🏡 Quiosque com churrasqueira\n\t🔥 Aquecedor de Água",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/2698/60c45fd2f736730afcf5241a2bef6fea_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/60c45fd2f736730afcf5241a2bef6fea_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/04b1280adfd37af8e14a9a1e50c7c28b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/178ec5a8c5b1ce8cf544498e82efdc21_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/81aee7ffeb24932f8562a3777fd53f2e_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/1b967f4390fd1fe06a576502085ebe7e_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/c09dd3d04d2444381dd7cd7e8b187648_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/f29d43832529d45a9f81f8c4b07a0ec3_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/378014b87a2f185204ff1df71702eca4_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/8ce4c47d19df377e1a0255923fc969e5_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/7f54d10c7c71765d4cf8f441715702e0_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/ee62541178f3569ee7d1ae48165c4141_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/c82bfd540bd1f5bda20b8caa610fa94e_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/28da751af049bbf6e6abdd8458fd3e76_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/6edce6bc49891a8dfb4296161b52db20_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/03f573a199d632503e789f90b9f07fd9_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/7fa54781659bf853015dfa5d867b3765_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/8b28fb5bdd73da5f3fb642b5a3ea1861_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/9ccae845b9663dd0e9124925d40b26af_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/a8dc3642cf8bdcf288352e32ee085848_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/abea92d87e6fb79a80fbdd64d456e014_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/9f88f562ed24c50290f3703fb4471185_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/e6eac562e46753d26cbaa1ebee488163_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/894bd053f11d4a4e78cc6bfbe8051308_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/8067974f7eadfef5ed8962c8813190fc_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/ce604253561fd4bee486b874e8725172_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/be68e1e876ab16b2bce922d816c199cc_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/3e2e51fe1e2c0504afd518857ed0ecc0_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/4921f31edd6f2668fe64e4929e7559f2_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/dc3e2ac3d84396e450c0ef3cfc5d7207_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/f9f3ff9defe9a80765d4eb6b09647cfc_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/3edca97bf9d27eec1276342762b65552_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/dc3e2ac3d84396e450c0ef3cfc5d7207_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/960e52395b97270364ac15a46d9a76fd_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/81db50eec5f190bce1cf611df849015f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/8adef24664e41b7afc0ee880a6828ded_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/b070bd0c6c955a2a738a6690ea4aa833_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/9ed1cffb9790f1a69e479f90e2be6dd2_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/0698a0d84e4e54116165fa452014dba8_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/75321347357bab1d0a96b3a82279317c_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/9c74dd5efa500f984db085a63678c6b7_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/148095ffaf7298f83448ca750a47f4a5_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/a8776a3617acd86e0dda983747225f75_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/d155fd94596ec483eed0564da2caa787_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/3d9ff755ba2294f27084eb94ad2d0ffb_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/deac43181e77fe6e5c71798ca0774c2b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/2698/079e7103d6088ca0c222e88b81e10a78_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": false
+  },
+  {
+    "id": "5142",
+    "code": "5142",
+    "slug": "apartamento-com-3-dormitorios-para-locacao-em-frederico-westphalen-rs",
+    "title": "Apartamento com 3 Dormitórios — Centro",
+    "category": "Apartamento",
+    "purpose": [
+      "Locação"
+    ],
+    "purposeLabel": "Locação",
+    "prices": [
+      {
+        "label": "Locação",
+        "value": "R$ 2.700,00 / mês",
+        "numericValue": 2700
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Rua Pres. Kennedy, 1285",
+      "complement": "COBERTURA",
+      "neighborhood": "Centro",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/RUA PRES. KENNEDY 1285 CENTRO FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 3,
+      "suites": 1,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    },
+    "amenities": [
+      "Sacada",
+      "Área De Serviço",
+      "Salão De Festas",
+      "Churrasqueira",
+      "Elevador"
+    ],
+    "description": "Uma linda cobertura, com uma vista de encher os olhos!",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/5125/8f648748b19e1e0f1e9b3f98629253fe_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5125/8f648748b19e1e0f1e9b3f98629253fe_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5125/9b2e5c83b73de32beceeb1a19cd7a1a8_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5125/d2629d6a7d3f0aaffef6c0d6c49148a8_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5125/703075a12af82033cdc8329289ab1668_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5125/45560605736327315b3829d589fdec05_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5125/0904aefaa3e68ab66ef9f12fa1b55397_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5125/45c4b66920c05e1abc675db70e9336ed_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5125/1214d01b44fb197a9c8a1658e2b201e6_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5125/34a582993be8278ef469e75a326d280a_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5125/b8d53800371e546aab42acaf1f0489f6_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5125/174cabcbc30e6f645479f22a13c9165c_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5125/1930e1dfd066c64bce756c118c4a54ab_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5125/b0f9c64148c90e7b72298b08d0156104_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": false
+  },
+  {
+    "id": "5067",
+    "code": "5067",
+    "slug": "apartamento-com-4-dormitorios-para-locacao-em-frederico-westphalen-rs",
+    "title": "Apartamento com 4 Dormitórios — Centro",
+    "category": "Apartamento",
+    "purpose": [
+      "Locação"
+    ],
+    "purposeLabel": "Locação",
+    "prices": [
+      {
+        "label": "Locação",
+        "value": "R$ 2.500,00 / mês",
+        "numericValue": 2500
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Rua Rui Barbosa, 784",
+      "complement": "APTO. 401",
+      "neighborhood": "Centro",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/RUA RUI BARBOSA 784 CENTRO FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 4,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    },
+    "amenities": [
+      "Banheira De Hidromassagem",
+      "Sacada",
+      "Cozinha Mobiliada",
+      "Área De Serviço",
+      "Salão De Festas",
+      "Churrasqueira",
+      "Elevador",
+      "Piscina",
+      "Dep. Empregada",
+      "Mini-Quadra",
+      "Lavanderia"
+    ],
+    "description": "Apartamento no bairro Centro, Frederico Westphalen. Conta com 4 dormitórios, 1 banheiro, 1 vaga de garagem. Diferenciais: Banheira De Hidromassagem, Sacada, Cozinha Mobiliada, Área De Serviço, Salão De Festas, Churrasqueira, Elevador, Piscina.",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/5050/a476732ca8baa7180498ef0c63e49e5a_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/a476732ca8baa7180498ef0c63e49e5a_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/b56c27e8e35f0ece745ca91e6b8f1cb2_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/d96bd87b38f8626206fdfc88734ecf58_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/6abe0eff0b6d506daa810877702cbe49_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/36e0d7d1ce800ec66068f957c08edc0f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/075d810e4d5fd4a586bf67e11c882dd4_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/e4cd7c287a20a4bd251f46e02c87d0b2_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/05ab935d81abaa723dc24ad61d9707fc_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/b2353ef7974ca829a092838a93cc25b4_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/69f319e14d527931fda07fcf0aa22710_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/bb0cbb58cb803e03ebd6501c6f517425_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/d22bcfb94a51761797287c95a33f0755_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/f02515087d77bf1409a26d10d6724ed0_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/62a88ced58851371ee3d5b8c38f37055_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/98475221b835ca040e9b2b74c8e8ef8a_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/aaef14fdbfff98f023c2b7fbd0320955_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/141e71acb7e02ba9beda13549213d4e1_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/e786bbcf2cdda684592017cbaddd042f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/134f3856758acc845be65b3e9922c3b5_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5050/5b0a7c8cb7f3d2e1a422e5740f7a3385_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": false
+  },
+  {
+    "id": "229",
+    "code": "229",
+    "slug": "apartamento-com-4-dormitorios-para-locacao-em-frederico-westphalen-rs",
+    "title": "Apartamento com 4 Dormitórios — Centro",
+    "category": "Apartamento",
+    "purpose": [
+      "Locação"
+    ],
+    "purposeLabel": "Locação",
+    "prices": [
+      {
+        "label": "Locação",
+        "value": "R$ 2.500,00 / mês",
+        "numericValue": 2500
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Rua Rui Barbosa, 784",
+      "complement": "Apto 502",
+      "neighborhood": "Centro",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/RUA RUI BARBOSA 784 CENTRO FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 4,
+      "bathrooms": 1,
+      "parkingSpaces": 2
+    },
+    "amenities": [
+      "Sacada",
+      "Área De Serviço",
+      "Despensa",
+      "Salão De Festas",
+      "Churrasqueira",
+      "Elevador",
+      "Água Quente",
+      "Piscina",
+      "Ar Condicionado"
+    ],
+    "description": "Apartamento no bairro Centro, Frederico Westphalen. Conta com 4 dormitórios, 1 banheiro, 2 vagas de garagem. Diferenciais: Sacada, Área De Serviço, Despensa, Salão De Festas, Churrasqueira, Elevador, Água Quente, Piscina.",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/225/53d6e5d66d90873a3e3339fe41b967e5_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/53d6e5d66d90873a3e3339fe41b967e5_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/cc1523d5d46a8feedb1d9a439afd553e_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/f373844243a0aa31f76f0fe7536bcd66_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/d790bca40897bc6cb9276117cb358882_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/2da3cd003f4e1710cdbc0916fecf8dc5_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/7a8adbe55124d084bf47dc3330402523_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/757951f9273e34c49c8f40c0b8c76d0c_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/00c6dce788d655f675735f309b2287bf_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/dcf426d415daab95fe39a2988480e449_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/0c0fdab8328bb7b57a3d05f9c14877c0_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/8302d6163685c33607d37a32d50404ba_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/e6c517d8d1ca53a11dbc47bcf4b9b433_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/4dcedc741ee8a95b9b2b6af349ef8411_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/254df015b03bc791117d36a2fef067fa_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/612d57690131e4006a8df3e118e9d02e_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/4e52a988934ad8e1d0bfc811bc4e17e2_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/8d7e9f1036d5abef4793a3c7b20693b3_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/1bc1525d0219525496351c7634f1c0ac_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/396d7273498c23bde9818a46812c8842_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/0737a9584dbfa7d78991ed66628d001b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/74caef61c42c7f48a9eaf611428aef8b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/b71f61de459354f579b3b45b4fb9b808_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/92929018cc2ae1f8b4ba4da7b6036d0e_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/d2a40d2e97e598719a146c495e63c4a4_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/854e44f6c7064c287bbf8586e1daa4a7_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/e1a1c41aae9ecaf644e1a444e8bb2115_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/ebc24f4a5f031258e4e5389f1f47e7f2_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/654606d5b40b93db9f005a8b70d20712_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/225/c63b2e25d6b716388f518ec604b223d1_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": false
+  },
+  {
+    "id": "5168",
+    "code": "5168",
+    "slug": "apartamento-com-3-dormitorios-para-locacao-em-frederico-westphalen-rs",
+    "title": "Apartamento com 3 Dormitórios — Centro",
+    "category": "Apartamento",
+    "purpose": [
+      "Locação"
+    ],
+    "purposeLabel": "Locação",
+    "prices": [
+      {
+        "label": "Locação",
+        "value": "R$ 2.450,00 / mês",
+        "numericValue": 2450
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Rua Guerino Cerutti, 161",
+      "complement": "APTO. 501",
+      "neighborhood": "Centro",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/RUA GUERINO CERUTTI 161 CENTRO FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 3,
+      "suites": 1,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    },
+    "amenities": [
+      "Sacada",
+      "Cozinha",
+      "Área De Serviço",
+      "Salão De Festas",
+      "Churrasqueira",
+      "Elevador",
+      "Dep. Empregada",
+      "Condomínio: EM TORNO DE R$ 450,00",
+      "Proximidade: ESCOLA, MERCADO, ACADEMIA, IGREJA..."
+    ],
+    "description": "Apartamento no bairro Centro, Frederico Westphalen. Conta com 3 dormitórios, 1 suíte, 1 banheiro, 1 vaga de garagem. Diferenciais: Sacada, Cozinha, Área De Serviço, Salão De Festas, Churrasqueira, Elevador, Dep. Empregada, Condomínio: EM TORNO DE R$ 450,00.",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/5156/04c78670adf5b8565b7bdf147db64546_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5156/04c78670adf5b8565b7bdf147db64546_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5156/6e8f8dda986c3e62c2ad6adf4bb095db_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5156/61e6ebe27eb809d7aebe6e6a85bd0993_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5156/cef1ac66ec0a0fb537f2b6583d651d5f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5156/a5d6e96a6aefddf55e6b5c1f0fca3ac5_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5156/372b606b24abe2fd95ce54eeebebcf83_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5156/d95deddd7c8d9ca138ca8f42aa081faf_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5156/bfb2a437b5f28dcdc1a0da79c13a1103_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5156/e483215a59c2c0fdbda84ed8b3d9ba3c_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5156/e1bf639217f2060899da4b9a01126d8f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5156/7d93e7d78e72385448cf141a1ec5d930_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5156/b81ddf5b9c49ee23bb314091e11b5305_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5156/3c6bcacb5e50aa4cfe015077d8b74ab4_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5156/5398aa8b984672ffb4aa0cfc69fc9435_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5156/14647ee422bebeea372abb5d8a4c7aec_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5156/23cdde4a110b2d186988e68257e74212_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5156/d0e1be9e844d72b7b72d5e65b021912d_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": false
+  },
+  {
+    "id": "5189",
+    "code": "5189",
+    "slug": "apartamento-com-2-dormitorios-para-locacao-em-frederico-westphalen-rs",
+    "title": "Apartamento com 2 Dormitórios — Itapage",
+    "category": "Apartamento",
+    "purpose": [
+      "Locação"
+    ],
+    "purposeLabel": "Locação",
+    "prices": [
+      {
+        "label": "Locação",
+        "value": "R$ 2.350,00 / mês",
+        "numericValue": 2350
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Rua Assis Brasil, 335",
+      "complement": "apto. 806 - Box 27",
+      "neighborhood": "Itapage",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/RUA ASSIS BRASIL 335 ITAPAGE FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 2,
+      "suites": 1,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    },
+    "amenities": [
+      "Sacada",
+      "Cozinha Mobiliada",
+      "Área De Serviço",
+      "Salão De Festas",
+      "Churrasqueira",
+      "Elevador",
+      "Iptu: + OU - R$ 1.000,00"
+    ],
+    "description": "Apartamento no bairro Itapage, Frederico Westphalen. Conta com 2 dormitórios, 1 suíte, 1 banheiro, 1 vaga de garagem. Diferenciais: Sacada, Cozinha Mobiliada, Área De Serviço, Salão De Festas, Churrasqueira, Elevador, Iptu: + OU - R$ 1.000,00.",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/5178/584f87b7ff201ad3cc2aa5585259d366_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5178/584f87b7ff201ad3cc2aa5585259d366_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5178/984457792640267f033ed2e71ef91905_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5178/9e6ec91246fcada6a1a6b2aec51889ee_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5178/5619a5fdce8ad7d5abc78c6a9325a58b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5178/83231a79fe0d9f1b329d153d8b303002_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5178/bb1ea22e19be42c50f2d730772e1229b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5178/b3d5a4d463b6e94e516a77885504a74b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5178/33168ef5794e22ba4e89d51d4ab1fac5_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5178/d961aa7f69053c20fb236aa12984f40b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5178/fe7fc1ebe8bd323e3b58b7f6255d516e_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5178/96af920a46f402bad78f515a7c8c017c_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5178/16c92a8dbf2cb86f5b4cd4414e84b74d_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5178/4bef44d872a8b83faf8cc8b7d8f47c7a_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5178/14afb76590a2c9bbf0ee9a76256c39c1_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5178/433e6c3d9fcd537b5195d4c4e9f4b781_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": false
+  },
+  {
+    "id": "4890",
+    "code": "4890",
+    "slug": "casa-com-4-dormitorios-para-locacao-em-frederico-westphalen-rs",
+    "title": "Casa com 4 Dormitórios — Centro",
+    "category": "Casa",
+    "purpose": [
+      "Locação"
+    ],
+    "purposeLabel": "Locação",
+    "prices": [
+      {
+        "label": "Locação",
+        "value": "R$ 3.750,00 / mês",
+        "numericValue": 3750
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Rua Santo Cerutti, 628",
+      "complement": "",
+      "neighborhood": "Centro",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/RUA SANTO CERUTTI 628 CENTRO FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 4,
+      "suites": 1,
+      "bathrooms": 2,
+      "parkingSpaces": 2
+    },
+    "amenities": [
+      "Cozinha Mobiliada",
+      "Área De Serviço",
+      "Churrasqueira",
+      "Varanda",
+      "Ar Condicionado",
+      "Portão Eletrônico"
+    ],
+    "description": "Casa no bairro Centro, Frederico Westphalen. Conta com 4 dormitórios, 1 suíte, 2 banheiros, 2 vagas de garagem. Diferenciais: Cozinha Mobiliada, Área De Serviço, Churrasqueira, Varanda, Ar Condicionado, Portão Eletrônico.",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/4872/678d0c29b07dbd12063116a0b495e87d_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/678d0c29b07dbd12063116a0b495e87d_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/b9bdb6cc3b4e3267c70f3fb5f6265c2f_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/6885e2d0969b1a1e854c20048890527e_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/1e3c94751698b51be6deb0b33d8d5a74_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/ae0640ca70ec2a57d3cef47ebeda65b6_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/4b2c9396a6198c982150a1c025c3f2f9_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/f0fdd7ef40a0a8adf110dd11554f8f36_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/adb608abc4760bbd0ff6d8f6b7e74b34_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/9e598bf1bb18b24d9ebc3ae9078ab31e_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/8a26ba7439bb0384b90959fc6695c354_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/ed17c3b6e051486f714f254cef9740ae_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/cdd99c23591dff051c72bc082a08d32b_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/e9a15aa1d45d56c57374832b6f430473_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/9fc1c5690a77aa50d23a3b4314ec71e3_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/6ba4543e34cbe4723990cc4da827fb8a_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/0e16a368cc59aea395958fa939bce972_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/8d81b311f0fe8693f14f580f592c819a_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/241658f920e7a0d4ee2a8b6561d3afe6_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/bef08b382a0b325302009a86b7ebf4cf_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/77c0800b2aa91c2f049e2d47f1204f83_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/8eea632e1d97ca963bdd428a66bc5ae9_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/49991d866fb3c53112643af75eca5ab9_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/a564421e828bc5b07e0ac64e42f0dd2f_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/af25bfff7ae05b72e59d2508aeb4eaa2_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/3f64a12db9b5c4e677981b762676f1cb_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/0752388729a53c76eb18eb6d33ee7ed1_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/d0a59391bf31638acf430d67139852e0_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/f1e75012e77cdb900711e90d77508c77_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/37c3e84d4c04d7504b58539520ca3563_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/07b3b7266659378c824edf0b032f28a2_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/3013588e5de3e008e00a701c46fa9736_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/10d8c92d59d2e9ff465c5a992e67d8ca_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/7fb8c0d2e13143466c889b3146c09ada_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/939f5f794e5132d415b4cbf5b164e4f7_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/94d0e0c5de7918fbb202d4ac05f8d846_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/5181651e9d0ef86730814aec9d947c50_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/9443b0dd19168505bcbc81bfba7bff99_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/41ee77699b97f280623aa4a0ff138cb2_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/0bedf98825972d36f68ea531320ade8b_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/36cb06be7d827a00265b39c091dd8d41_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4872/b2b4ce3799d1cf900c8969594a283546_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": false
+  },
+  {
+    "id": "5208",
+    "code": "5208",
+    "slug": "casa-com-3-dormitorios-para-locacao-venda-em-frederico-westphalen-rs",
+    "title": "Casa com 3 Dormitórios — Aparecida",
+    "category": "Casa",
+    "purpose": [
+      "Locação",
+      "Venda"
+    ],
+    "purposeLabel": "Venda e Locação",
+    "prices": [
+      {
+        "label": "Venda",
+        "value": "R$ 590.000,00",
+        "numericValue": 590000
+      },
+      {
+        "label": "Locação",
+        "value": "R$ 2.750,00 / mês",
+        "numericValue": 2750
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Rua São Francisco De Assis, 410",
+      "complement": "CASA - 2",
+      "neighborhood": "Aparecida",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/RUA SÃO FRANCISCO DE ASSIS 410 APARECIDA FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 3,
+      "suites": 1,
+      "bathrooms": 2,
+      "parkingSpaces": 2
+    },
+    "amenities": [
+      "Lavabo",
+      "Área De Serviço",
+      "Churrasqueira",
+      "Mobiliado(A)",
+      "Varanda",
+      "Energia Solar"
+    ],
+    "description": "Casa no bairro Aparecida, Frederico Westphalen. Conta com 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas de garagem. Diferenciais: Lavabo, Área De Serviço, Churrasqueira, Mobiliado(A), Varanda, Energia Solar.",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/5197/2dd929e0ef06e4f04cffd63f518fc1d8_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5197/2dd929e0ef06e4f04cffd63f518fc1d8_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5197/b27b170b0d45e4a63622e8bfb7f8762f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5197/106abaa9bd3aaadc3dbb00ebc376db58_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5197/93613943edf819ca5133652fc6f4451c_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5197/42f886a6bfca6fd693ce6924481dcc9b_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5197/9d86fa46b8a8344a95b464d3647c3bb4_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5197/278130e5ed6041a6fad9b3d061b823d7_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5197/1cac974591c0e36ddb75070cb717f37f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5197/10c6502f0c99028ffb37e6b5ad4bd4ae_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5197/1a63b0acb1e33ec503ced0ac0084ab9f_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5197/6894c0eed087cd70128a33de9c61875e_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5197/eda1ea0d9fdc7f0005a7f06c928b7664_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5197/108295d66b3778f61b92819ac281bae7_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5197/ea3edbf779738c2018459cb35b914c17_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5197/be442c7881afe510897c21c17255a28e_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5197/178fdecd06d6385f1580f16b0b9f1d18_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5197/06126afc1bd33065fad6bfc4dd8f91de_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": false
+  },
+  {
+    "id": "5207",
+    "code": "5207",
+    "slug": "casa-com-3-dormitorios-para-locacao-em-frederico-westphalen-rs",
+    "title": "Casa com 3 Dormitórios — Centro",
+    "category": "Casa",
+    "purpose": [
+      "Locação"
+    ],
+    "purposeLabel": "Locação",
+    "prices": [
+      {
+        "label": "Locação",
+        "value": "R$ 2.500,00 / mês",
+        "numericValue": 2500
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Rua Peru, 22",
+      "complement": "",
+      "neighborhood": "Centro",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/RUA PERU 22 CENTRO FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    },
+    "amenities": [
+      "Cozinha Mobiliada",
+      "Área De Serviço",
+      "Churrasqueira",
+      "Varanda"
+    ],
+    "description": "Casa no bairro Centro, Frederico Westphalen. Conta com 3 dormitórios, 1 banheiro, 1 vaga de garagem. Diferenciais: Cozinha Mobiliada, Área De Serviço, Churrasqueira, Varanda.",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/5196/798a46202971bf25d95158e82dc8ceb3_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5196/798a46202971bf25d95158e82dc8ceb3_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5196/f028afb5bdd9843c74b44e4106c35479_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5196/1f2ed3e262d4365e4b14abb9139e0fa0_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5196/cb8db604f5995977dcaaa2b64b170cab_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5196/f550c87176ef89548ccc670b4d0e4702_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5196/8ff018b6d166086968266e6d9a9d17fe_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5196/19ea0206f31faf626fa421228b98a3f4_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5196/8c20ef539a8105c785896229bf2b60e2_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5196/4f81c68f29464c72334fe60d713c88e6_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5196/7a598ca9ae0f40c2a1c90a1bdd2b8841_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5196/671efabde013f2abaf7a208099948148_original.jpeg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/5196/92e83db65daa4fa9d39ac83f1e8350d4_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": false
+  },
+  {
+    "id": "1823",
+    "code": "1823",
+    "slug": "casa-com-3-dormitorios-para-locacao-em-frederico-westphalen-rs",
+    "title": "Casa com 3 Dormitórios — Aparecida",
+    "category": "Casa",
+    "purpose": [
+      "Locação"
+    ],
+    "purposeLabel": "Locação",
+    "prices": [
+      {
+        "label": "Locação",
+        "value": "R$ 2.400,00 / mês",
+        "numericValue": 2400
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Rua Mauricio Cardoso/ Esquina Com Rua São Bento, 1090",
+      "complement": "",
+      "neighborhood": "Aparecida",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/RUA MAURICIO CARDOSO/ ESQUINA COM RUA SÃO BENTO 1090 APARECIDA FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSpaces": 2
+    },
+    "amenities": [
+      "Cozinha",
+      "Área De Serviço",
+      "Salão De Festas",
+      "Churrasqueira",
+      "Pátio"
+    ],
+    "description": "Casa no bairro Aparecida, Frederico Westphalen. Conta com 3 dormitórios, 2 banheiros, 2 vagas de garagem. Diferenciais: Cozinha, Área De Serviço, Salão De Festas, Churrasqueira, Pátio.",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/1756/3be62b1d885bb6278ac018e1291f02da28dbbce4_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/1756/3be62b1d885bb6278ac018e1291f02da28dbbce4_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/1756/523c6babf015f98d9b2fedacd05aeda0fcc4b1ea_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/1756/307554f0c309074964a0c576521807601a4e4fd8_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/1756/1cfc53e5d7174354c3b7fa41b2bb69cb7527e050_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/1756/c9e3674ee72b4ccd9430b42d41b30eb59a86412f_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/1756/72521f9f67c38326c569362fe9e2120f23380e84_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/1756/d007056228403003dccb18d69879119acff44e89_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/1756/fc364521724bdcaa26a9609f03ce6238107f63e0_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/1756/26c3f3cfcea2cec096b079368f7c2c1b4c5dd03f_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/1756/33f26ed569ed556669ef22b24a6ed927d04af928_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/1756/82d8194eb9f0865b56e4859fb3c952b6bf572a6f_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/1756/c1977dded3d43e9bc6fb9cca847b4951402e69da_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/1756/61044ca138f88da108aeec7622f025d8d45a2be8_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/1756/10685f6cd7958f5d5c5a1fae7cf1fbff457485dd_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/1756/1e04409b3a2104ad851c56180f7020bb6bd41b73_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/1756/5a5412daf61e7a9a3a079805a19887c76b9c8748_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/1756/305057e4dfa678c7804bdcf90e2cc4b0c7bfc311_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/1756/44eda332f66b895cd47e8df8db49f5923c011429_original.jpg?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": false
+  },
+  {
+    "id": "4917",
+    "code": "4917",
+    "slug": "casa-com-2-dormitorios-para-locacao-em-frederico-westphalen-rs",
+    "title": "Casa com 2 Dormitórios — Barril",
+    "category": "Casa",
+    "purpose": [
+      "Locação"
+    ],
+    "purposeLabel": "Locação",
+    "prices": [
+      {
+        "label": "Locação",
+        "value": "R$ 2.000,00 / mês",
+        "numericValue": 2000
+      }
+    ],
+    "condoPrice": null,
+    "iptuPrice": null,
+    "address": {
+      "street": "Rua Sessenta E Seis, 300",
+      "complement": "CASA 01",
+      "neighborhood": "Barril",
+      "city": "Frederico Westphalen",
+      "state": "RS",
+      "cep": "98400-000",
+      "googleMapsUrl": "https://www.google.com.br/maps/place/RUA SESSENTA E SEIS 300 BARRIL FREDERICO WESTPHALEN, 98400000"
+    },
+    "features": {
+      "bedrooms": 2,
+      "suites": 1,
+      "bathrooms": 1,
+      "parkingSpaces": 2
+    },
+    "amenities": [
+      "Cozinha Mobiliada",
+      "Área De Serviço",
+      "Espaço Gourmet",
+      "Churrasqueira",
+      "Varanda"
+    ],
+    "description": "Casa no bairro Barril, Frederico Westphalen. Conta com 2 dormitórios, 1 suíte, 1 banheiro, 2 vagas de garagem. Diferenciais: Cozinha Mobiliada, Área De Serviço, Espaço Gourmet, Churrasqueira, Varanda.",
+    "cover": "https://marcoslima.simob.com.br/cdn/imovelImages/4899/25f7a6787a3b241014e487d10c4f13ea_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+    "images": [
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/25f7a6787a3b241014e487d10c4f13ea_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/d176b255043925399d34db1172f6bddf_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/d25ddc2040977ab9d675c24b3cc0d903_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/9f98d6716dd1ff316a8caa798828bc22_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/97caf519e5056f987e35ea6947c95e16_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/420650668bd47dcbab668b90f312df3c_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/139880cc9d84f67770ea64419e3534c3_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/efd647d001f070fb4920ac08dc635cc1_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/cdb2354c2408fbc7649a3159bb3ce570_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/7e16f67f6eebe5c8467e7eedaf5c6cda_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/b917a4655e2943e08e803febd3a25027_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/be9f9b944335e51e3f7cdbde6b35aaa8_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/a49288c85256193c7b6f11aacc49b771_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/7d0aa710400f0af95ced4d1b3b3ee3d4_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/7db147a990e0207743a755f18e380779_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/827111ed722273a47d8682a7af6870b4_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/73242cd342abb8cf4bfdd10ac751175d_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/b8588e985b4bc805ff48ac50fffc8fb2_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/36c7e943ed712d1af689f425b3ac65df_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/88c979dfd30b8e9ff368ce92182f769c_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/e4e80970d7f64504cbc28723e16c195a_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/095fd04ad80d85e6ca3ebdcf2208b11a_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/f2c910ded601a4324322edf89922deab_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/688d1482c95f4e988bdf19288c49aea0_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/5615de7e54811c6c08892a7f6c8895e0_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/0d7c475ad0f28d2b86ce20c434a2050a_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/f8ab390658259b7d87c577bcc60bea69_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20",
+      "https://marcoslima.simob.com.br/cdn/imovelImages/4899/4d1a0edac77f26a8d35a506974795284_original.png?tx=9&utilizarMarcaDagua=true&posicao=top-right&tamanhoMarcadagua=20"
+    ],
+    "featured": false
+  }
+]
